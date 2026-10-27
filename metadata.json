@@ -1,0 +1,6 @@
+{
+  "name": "OsteoAtlas 3D - Atlas de Anatomía Ósea",
+  "description": "Atlas interactivo de anatomía humana en 3D especializado en el sistema óseo: huesos, accidentes y reparos anatómicos, regiones esqueléticas y fichas clínicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
